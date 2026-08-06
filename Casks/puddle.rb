@@ -1,6 +1,6 @@
 cask "puddle" do
-  version "2.17.4"
-  sha256 "29fffcd2e1268a3d7122b7afafd7b617da97ae83f8aeac16d2e666ac587252f7"
+  version "2.17.5"
+  sha256 "2f6819bd78c44240de36fbd3a5ec512f526f13b2d94429a65a7d2655eaaf5c64"
 
   url "https://github.com/gapul/homebrew-puddle/releases/download/v#{version}/Puddle-#{version}.zip"
   name "Puddle"
